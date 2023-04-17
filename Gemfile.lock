@@ -13,7 +13,7 @@ GEM
     colorize (0.6.0)
     facter (2.4.4)
       CFPropertyList (~> 2.2.6)
-    ffi (1.9.10)
+    ffi (1.15.5)
     fpm (1.4.0)
       arr-pm (~> 0.0.10)
       backports (>= 2.6.2)
